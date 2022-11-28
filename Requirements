@@ -1,0 +1,12 @@
+streamlit
+numpy
+ipandas
+scipy
+scipy.signal
+glob
+matplotlib.pyplot
+plotly.graph_objects
+librosa
+datetime
+timedelta
+plotly.subplots
