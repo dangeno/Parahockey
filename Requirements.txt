@@ -1,7 +1,7 @@
 streamlit
 numpy
 ipandas
-scipy
+scipy==1.6.2
 scipy.signal
 glob
 matplotlib.pyplot
