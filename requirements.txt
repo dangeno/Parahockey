@@ -1,8 +1,7 @@
-librosa
-matplotlib
-numpy
-pandas
-plotly
-scipy
-streamlit
-timedelta
+librosa==0.10.0.post2
+numpy==1.23.5
+pandas==2.0.3
+plotly==5.9.0
+scipy==1.10.0
+streamlit==1.25.0
+timedelta==2020.12.3
